@@ -1,0 +1,14 @@
+C:\Users\Estudiante\Documents\actividades poo\Act8\obj\Debug\net8.0\Act8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Documents\actividades poo\Act8\obj\Debug\net8.0\Act8.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Documents\actividades poo\Act8\obj\Debug\net8.0\Act8.AssemblyInfo.cs
+C:\Users\Estudiante\Documents\actividades poo\Act8\obj\Debug\net8.0\Act8.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\actividades poo\Act8\bin\Debug\net8.0\Act8.exe
+C:\Users\Estudiante\Documents\actividades poo\Act8\bin\Debug\net8.0\Act8.deps.json
+C:\Users\Estudiante\Documents\actividades poo\Act8\bin\Debug\net8.0\Act8.runtimeconfig.json
+C:\Users\Estudiante\Documents\actividades poo\Act8\bin\Debug\net8.0\Act8.dll
+C:\Users\Estudiante\Documents\actividades poo\Act8\bin\Debug\net8.0\Act8.pdb
+C:\Users\Estudiante\Documents\actividades poo\Act8\obj\Debug\net8.0\Act8.dll
+C:\Users\Estudiante\Documents\actividades poo\Act8\obj\Debug\net8.0\refint\Act8.dll
+C:\Users\Estudiante\Documents\actividades poo\Act8\obj\Debug\net8.0\Act8.pdb
+C:\Users\Estudiante\Documents\actividades poo\Act8\obj\Debug\net8.0\Act8.genruntimeconfig.cache
+C:\Users\Estudiante\Documents\actividades poo\Act8\obj\Debug\net8.0\ref\Act8.dll
